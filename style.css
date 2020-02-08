@@ -6,7 +6,7 @@ a[href^="http://www.link-group.eu"] {
 	color: red; 
 }
 
-#second-div p:nth-child(even) { 
+#second-div > p:nth-child(even) { 
 	color: red; 
 }
 
