@@ -14,7 +14,7 @@ a[href^="http://www.link-group.eu"] {
 	color: blue; 
 }
 
-#first-div p::after {
+#first-div > p::after {
     content: " NEW ";
     color: yellow;
     }
