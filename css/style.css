@@ -2,7 +2,7 @@ a[href^="https://www.google.com/"] {
 	color: green; 
 }
 
-a[href^="http://www.link-group.eu"] { 
+a[href^="http://www.link-group.eu/"] { 
 	color: red; 
 }
 
