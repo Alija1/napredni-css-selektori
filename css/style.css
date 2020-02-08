@@ -26,5 +26,5 @@ p:nth-child(3)::after {
 
 #last-p:hover {
     font-style: italic;
-    display: block;	
+    display: inline;	
 }
