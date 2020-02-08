@@ -24,7 +24,10 @@ p:nth-child(3)::after {
         color: yellow;
     }
 
+#last-p {
+    display: inline;	
+}
+
 #last-p:hover {
-    font-style: italic;
-    display: none;	
+    font-style: italic;	
 }
