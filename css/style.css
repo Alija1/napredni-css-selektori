@@ -14,9 +14,14 @@ a[href^="http://www.link-group.eu"] {
 	color: blue; 
 }
 
-#first-div > p::after {
+p:nth-child(2)::after {
     content: " NEW ";
     color: yellow;
+    }
+
+p:nth-child(3)::after {
+        content: " NEW ";
+        color: yellow;
     }
 
 #last-p:hover {
